@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sachin-user43
 - Sachin Ahirwar
-- I’m currently learning B.Tech CSE
+- I’m currently pursuing B.Tech CSE
 
 
 <!---
